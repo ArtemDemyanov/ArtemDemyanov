@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200428-67d4cd1d-217a-428a-943c-8c3e6ff2fd1c.gif" width="600">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02293768-9242-47e1-bf8f-d084ba0a2d1d" width="500">
 </div>
 
 ###
