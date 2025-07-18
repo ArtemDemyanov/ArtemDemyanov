@@ -70,6 +70,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArtemDemyanov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&cache_seconds=1800&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemDemyanov&cache_seconds=1800" align="center">
 </div>
 ###
